@@ -1,2 +1,13 @@
 # Practicum100-Projects
 Projects that were completed during the Practicum100 program for Data Scientists by Yandex
+
+| Project name| Description | Libraries used |
+| --- | --- | --- |
+| [DA - Data Preprocessing](https://https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Data%20Preprocessing) | Preparing a report for a bank’s loan division for finding out if a customer’s marital status and number of children has an impact on defaulting on a loan | *Pandas, NLTK* |
+| [DA - Exploratory Data Analysis](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Exploratory%20Data%20Analysis) | Study data collected of free advertisements for vehicles over the last few years, and determine which factors influence the price of a vehicle | *Pandas, NumPy, Matplotlib* |
+| [DA - Statistical Data Analysis](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Statistical%20Data%20Analysis) | Analyzing telecom company clients' behavior, carrying out a preliminary analysis of the prepaid plans and determining which one brings in more revenue in order to adjust the advertising budget | *Pandas, NumPy, Plotly, SciPy* |
+| [DA - Integrated Project 1](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Integrated%20Project%201) | Identifying patterns that determine whether a video game succeeds or not in order to spot potential big winners and plan advertising campaigns | *Pandas, NumPy, Matplotlib, Seaborn, SciPy, sidetable, squarify* |
+| [DA - Business Analytics](https://github.com/Yudit-Hod/Practicum100-Projects/upload/main/DA%20-%20Business%20Analytics) | Exploring how people use the product, when they start to buy, how much money each customer brings and when they pay off | *Pandas, NumPy, Matplotlib, Seaborn, Plotly* |
+| [DA - Making Business Decisions Based on Data](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Making%20Business%20Decisions%20Based%20on%20Data) | Prioritizing the hypotheses in order to cut expenses on experimentation and test only the most promising ideas. The analysis of A/B test results | *Pandas, NumPy, Matplotlib, SciPy* |
+| [DA - How to Tell a Story Using Data](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20How%20to%20Tell%20a%20Story%20Using%20Data) | Market research in order to provide recommendations on restaurant opening | *Pandas, NumPy, re, usaddress, Plotly* |
+| [DA - Integrated Project 2](https://github.com/Yudit-Hod/Practicum100-Projects/tree/main/DA%20-%20Integrated%20Project%202) | Investigating user behavior for the company's app, studying the sales funnel and analyzing the results of an A/A/B test | *Pandas, NumPy, Plotly, SciPy* |
